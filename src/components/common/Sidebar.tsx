@@ -46,10 +46,10 @@ export function Sidebar() {
         <div>
           <Link href="/" className="mb-7 flex items-center gap-2 px-2">
             <span className="flex h-8 w-8 items-center justify-center rounded-lg bg-primary text-sm font-bold text-white">
-              h
+              s
             </span>
             <span>
-              <span className="block text-base font-semibold tracking-tight">handys</span>
+              <span className="block text-base font-semibold tracking-tight">stayops</span>
               <span className="block text-[10px] font-medium tracking-[0.12em] text-subtext">STAY OPS</span>
             </span>
           </Link>
@@ -80,7 +80,7 @@ export function Sidebar() {
 
           <div className="rounded-xl border border-card-border bg-background p-3">
             <p className="text-xs font-semibold">Operations MVP</p>
-            <p className="mt-1 text-[11px] leading-4 text-subtext">객실·청소·이슈 운영 흐름을 검증하는 과제 버전입니다.</p>
+            <p className="mt-1 text-[11px] leading-4 text-subtext">객실·청소·이슈 운영 흐름을 검증하는 MVP 버전입니다.</p>
           </div>
         </div>
       </aside>

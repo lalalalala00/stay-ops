@@ -8,8 +8,8 @@ export function Header() {
   return (
     <header className="flex h-16 shrink-0 items-center justify-between border-b border-card-border bg-card px-4 sm:px-6">
       <span className="text-sm font-semibold tracking-tight">
-        <span className="sm:hidden">handys</span>
-        <span className="hidden sm:inline">Handys Stay Operations</span>
+        <span className="sm:hidden">stay ops</span>
+        <span className="hidden sm:inline">Stay Ops Dashboard</span>
       </span>
 
       <div className="flex min-w-0 items-center gap-2 sm:gap-4">
@@ -36,7 +36,7 @@ export function Header() {
           </span>
           <span className="text-left leading-tight">
             <span className="block text-xs font-medium">운영자</span>
-            <span className="block text-[11px] text-subtext">핸디즈 운영팀</span>
+            <span className="block text-[11px] text-subtext">운영 관리팀</span>
           </span>
           <ChevronDownIcon className="h-3.5 w-3.5 text-subtext" />
         </div>

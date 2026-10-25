@@ -4,7 +4,7 @@ import { createContext, useCallback, useContext, useSyncExternalStore } from "re
 
 type LayoutWidth = "full" | "center" | "centerAll";
 
-const STORAGE_KEY = "handys-layout-width";
+const STORAGE_KEY = "stay-ops-layout-width";
 const VALUES: LayoutWidth[] = ["full", "center", "centerAll"];
 
 function subscribe(callback: () => void) {

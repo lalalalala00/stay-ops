@@ -2,8 +2,8 @@
 -- dashboard's delay-risk sorting always has something meaningful to show.
 -- Run after schema.sql.
 --
--- Branches are modeled as independently named hotels under Handys'
--- consignment operation (see src/lib/regions.ts) -- two hotels per
+-- Branches are modeled as independently named hotels under the
+-- operator's consignment operation (see src/lib/regions.ts) -- two hotels per
 -- district (구) to demonstrate the region -> branch drill-down.
 --
 -- payment_status/payment_amount/door_lock_code are display-only mock

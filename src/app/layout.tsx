@@ -7,7 +7,7 @@ import { AppShellFrame } from "@/components/common/AppShellFrame";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Handys Stay Operations",
+  title: "Stay Ops Dashboard",
   description: "객실 상태 중심의 청소 작업·운영 이슈 통합 대시보드",
 };
 
